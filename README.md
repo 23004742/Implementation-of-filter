@@ -27,8 +27,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program :
-### Developed By : T Ajay
-### Register Number : 2212223230007
+### Developed By :
+### Register Number : 
 </br>
 
 ### 1. Smoothing Filters
